@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #606060;
+    text-decoration: underline;
+}
+
+footer#rodape {
+    clear: both;
+    text-align: center;
+    border-top: 1px solid;
+}
+
+footer#rodape img {
+    opacity: 0;
+    position: relative;
+    width: auto;
+    height: auto;
+    transition: opacity 1s;
+}
+footer#rodape img {
+    opacity: 1;
+}
+footer#rodape span {
+    opacity: 0;
+    color: #606060;
+    position: relative;
+}
+footer#rodape:hover span {
+    opacity: 1;
+}
