@@ -1,6 +1,7 @@
 # Web
 
-## HTTP status codes as emoji
+## HTTP status codes as:
+#### Emoji
 * 200 👍
 * 201 🆕
 * 301 👉
@@ -13,6 +14,9 @@
 * 410 💨
 * 418 🍵
 * 500 💩
+
+#### [Dog](https://httpstatusdogs.com/)
+#### [Cat](https://http.cat/) 
 
 ---
 
@@ -61,26 +65,41 @@
 * [trendytheme](https://trendytheme.net/)  
 
 ### [StaticGen](https://www.staticgen.com/)
-## Ruby
+#### Ruby
 * Jekyll
 
-## Python
+#### Python
 * Pelican
 * Lektor
 
-## Javascript
+#### Javascript
 * Hexo
 * Next.js
 
-## Go 
+#### Go 
 * Hugo
 
 ---
 
 ## Back-End
+### Python
+* Flask
+* Django
 
-(...)
+### PHP
+* Laravel.
+* CodeIgniter.
+* Symfony.
+* Zend.
+* Phalcon.
+* CakePHP.
+* Yii
 
+### Javascript
+* Nodejs
+
+### Ruby
+* ruby on rails
 ---
 
 ## SEO
