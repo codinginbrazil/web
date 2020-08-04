@@ -122,4 +122,5 @@
 * [Manual de PHP ](https://www.php.net/manual/pt_BR/getting-started.php) 
 
 ### Blogs
-* [Gabs Ferreira](http://gabsferreira.com/#open)
+* [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
+* [Jeffrey Jaffe](https://www.w3.org/People/Jeff/)
