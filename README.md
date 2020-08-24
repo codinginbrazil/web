@@ -79,20 +79,25 @@
 #### Go 
 * Hugo
 
+### Framework
+* Vue.js
+* React
+* Angular
+
 ---
 
 ## Back-End
 ### Python
-* Flask
+* [Flask](https://github.com/codinginbrazil/flask)
 * Django
 
 ### PHP
-* Laravel.
-* CodeIgniter.
-* Symfony.
-* Zend.
-* Phalcon.
-* CakePHP.
+* Laravel
+* CodeIgniter
+* Symfony
+* Zend
+* Phalcon
+* CakePHP
 * Yii
 
 ### Javascript
