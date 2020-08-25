@@ -25,19 +25,15 @@
 ### CSS
 
 #### Template
-* [new.css - Write modern websites using only HTML ](https://newcss.net/)
 * [normalize.css - A modern, HTML5-ready alternative to CSS resets](https://necolas.github.io/normalize.css/)
+* [new.css - Write modern websites using only HTML ](https://newcss.net/)
+* [Sakura - a minimal classless css](https://oxal.org/projects/sakura/)
 
 #### Framerwork
 * [Bootstrap](https://getbootstrap.com/)
 * [Bulma](https://bulma.io/documentation/)
 * [Foundation](https://get.foundation/)
 * [Materialize](https://materializecss.com/)
-
-#### Aprenda mais
-* [Learn Layout (CSS)](http://pt-br.learnlayout.com/)
-* [Maujor - o dinossauro das CSS](https://maujor.com/)
-* [Fireship](https://github.com/fireship-io)
 
 ### Design
 #### Icones
@@ -84,6 +80,14 @@
 * Vue.js
 * React
 * Angular
+
+### Aprenda mais
+* [Learn Layout (CSS)](http://pt-br.learnlayout.com/)
+* [Maujor - o dinossauro das CSS](https://maujor.com/)
+* [Fireship](https://github.com/fireship-io)
+* [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Front-end-interview-handbook](https://yangshun.github.io/front-end-interview-handbook/)
 
 ---
 

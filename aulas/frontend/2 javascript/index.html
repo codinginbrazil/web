@@ -12,20 +12,25 @@
     <meta property="og:type" content="website">
 
     <title> Vue </title>
-    <link rel="stylesheet" href="../1 css/new.css">
+    <link rel="stylesheet" href="../1 css/normalize.css" />
+    <link id="sakura-css" rel="stylesheet" href="../1 css/sakura/sakura-earthly.css">
 </head>
 
 <body>
+
     <header>
-    <h1> Vue </h1>
         <nav style="text-align: right;">
-            | <a href="#"> Home</a>
-            | <a href="#">Aulas</a>
-            | <a href="#">Projetos</a>
-            | <a href="https://github.com/codinginbrazil/web">GitHub</a>
-            | <a href="#">Sobre</a> |
+            <a href="https://github.com/codinginbrazil/web"> Home &nbsp</a>
+            <a href="https://github.com/codinginbrazil/web/tree/master/aulas/">Aulas &nbsp</a>
+            <a href="#">Projetos &nbsp</a>
+            <a href="https://github.com/sswellington">GitHub &nbsp</a>
+            <a href="https://github.com/codinginbrazil/">Sobre &nbsp</a>
+            <a href="#" id="switch-theme">Change Theme</a>
         </nav>
+        <h1> Vue </h1>
     </header>
+
+
     <div id="app">
         {{ message }}
     </div>
@@ -75,15 +80,22 @@
     <a v-on:click="doSomething"> ... </a>
     <hr>
 
-    <!-- VUE.JS  -->
-    <!-- versão de desenvolvimento, inclui avisos úteis no console  -->
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <footer style="text-align: center;">
+        Coding in Brazil © 2020
+    </footer>
 
-    <!-- versão de produção, otimizada para tamanho e velocidade -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
-
-    <script src="js/index.js"></script>
-    <script src="js/component.js"></script>
 </body>
+
+<!-- VUE.JS  -->
+<!-- versão de desenvolvimento, inclui avisos úteis no console  -->
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<!-- versão de produção, otimizada para tamanho e velocidade -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+
+<script src="js/index.js"></script>
+<script src="js/component.js"></script>
+
+<script src="js/sakura-css.js"></script>
 
 </html>
