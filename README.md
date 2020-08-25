@@ -73,6 +73,7 @@
 * Lektor
 
 #### Javascript
+* Nuxt.js
 * Hexo
 * Next.js
 
