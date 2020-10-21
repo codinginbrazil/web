@@ -117,7 +117,6 @@
 * [1pagerank](http://www.1pagerank.com/)  
 * [openlinkprofiler](https://openlinkprofiler.org/)  
 * [Robot.txt](http://www.lucianosimas.com.br/blog/criar-robot-txt/)
-* [TLS](https://letsencrypt.org/)
 
 ## Deploy
 * [Heroku](https://heroku.com/)
@@ -126,6 +125,12 @@
 * [Firebase](https://firebase.google.com/?hl=pt-br)
 * [Vercel](https://vercel.com/)
 * [Github Pages](https://pages.github.com/)
+
+## Domínio 
+* [Registro.BR](https://registro.br/)
+### SSL/TLS
+* [SSL/TLS gratuito da Cloudflare](https://www.cloudflare.com/pt-br/ssl/)
+* [Let’s Encrypt é uma Autoridade Certificadora](https://letsencrypt.org/)
 
 ## Aprenda mais
 * [w3schools](https://www.w3schools.com/)  
