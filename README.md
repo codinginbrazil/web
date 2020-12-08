@@ -138,6 +138,7 @@
 * [w3schools](https://www.w3schools.com/)  
 * [Tableless](https://tableless.com.br/)  
 * [Manual de PHP ](https://www.php.net/manual/pt_BR/getting-started.php) 
+* [Xo Pixel](https://xopixel.com/)
 
 ### Blogs
 * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
