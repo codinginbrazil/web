@@ -139,6 +139,7 @@
 * [Tableless](https://tableless.com.br/)  
 * [Manual de PHP ](https://www.php.net/manual/pt_BR/getting-started.php) 
 * [Xo Pixel](https://xopixel.com/)
+* [Front-end Mentor](https://www.frontendmentor.io/)
 
 ### Blogs
 * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
