@@ -53,6 +53,7 @@
 * [undraw](https://undraw.co/)
 * [drawkit](https://www.drawkit.io/)
 * [iradesign](https://iradesign.io/)
+* [zeplin](https://zeplin.io/)
 
 ### Tema para site
 * [Jamstack themes](https://jamstackthemes.dev/)
