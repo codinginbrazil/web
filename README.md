@@ -46,6 +46,7 @@
 
 #### Imagens
 * [unsplash](https://unsplash.com/)
+* [pexels](https://www.pexels.com/pt-br/)
 * [freepik](https://www.freepik.com/)
 * [pixabay](https://pixabay.com/pt/)
 
