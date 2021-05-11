@@ -1,6 +1,40 @@
 # Introdução ao desenvolvimento web
 Objetivo de reunir material para auxilar à aprendizagem do desenvolvimento para Web.   
 
+## Client-side
+
+### Ruby: Jekyllrb
+* https://github.com/sswellington/blog
+* https://github.com/sswellington/about
+* https://github.com/sswellington/photos
+
+* https://github.com/sswellington/sobre
+
+* https://github.com/codinginbrazil/jekyll
+* https://github.com/template-jekyllrb
+
+### Vue.js
+* https://github.com/sswellington/haruno
+* https://github.com/Jiongu/santtana
+
+---
+
+## Server-side
+### PHP
+* https://github.com/sswellington/desenvolvimento-web
+* https://github.com/sswellington/soube
+
+
+### Javascript: Node
+* https://github.com/sswellington/omniStack11
+* https://github.com/sswellington/next-level-week
+
+
+### Python: Flask
+* https://github.com/codinginbrazil/flask
+
+---
+
 ## Conteúdo:
 * backend
 * css
