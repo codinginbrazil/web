@@ -17,6 +17,9 @@ Objetivo de reunir material para auxilar à aprendizagem do desenvolvimento para
 * https://github.com/sswellington/haruno
 * https://github.com/Jiongu/santtana
 
+### Next.js
+* https://github.com/codinginbrazil/reactjs
+
 ---
 
 ## Server-side
